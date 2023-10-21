@@ -1,0 +1,109 @@
+- 👋<html>
+    <head>
+        <title> RESUME</title>
+    </head>
+
+    <style>
+
+    p
+    {
+        border:5px solid green
+    }
+    </style>
+
+    <p>
+
+        <body>
+            <center>
+
+                <h1>
+                    <u>MY RESUME </U>
+
+                </h1>
+            </center>
+
+            <h3>veena</h3>
+
+            <img src="c:\Users\it\Downloads\Snapchat-1335208563.jpg" width=100 height=100 hspace=300 align=right>
+
+            <h5> palladam </h5>
+
+            <h5> v.veena@mjc.ac.in </h5>
+           
+            <h5> contact no:91*******</h5><hr>
+
+            <h2>
+                <div style="background-color: white;padding:05px;">
+                    <u> CAREER OBJECTIVE </u>
+                </h2>
+                <h3> to succeed in an environment of growth and excellence and earn and a job which provide me job satisfaction and self development and help a person as well as organisation goals.
+
+                </h3>
+
+                <h2>
+                <div style="background-color: gray;color:white;padding05px">
+                    <u> ACADAMIC DETAILS</u>
+
+                </h2>
+
+                <table border=5 width=1000>
+                    <tr>
+
+                        <th> qualification </th>
+                        <th> board /university </th>
+                        <th> year of passing </th>
+                        <th> marks </th>
+
+                    </tr>
+
+                    <tr>
+                        <th> bsc.cs </th>
+                        <th> bharathiyar university</th>
+                       
+                    <th> 2024</th>
+                        <th> 90</th>
+
+                    </tr>
+                    <tr>
+
+                    </table>
+
+                    <h2>
+                        <div style="background-color:gray;color:white;padding:05px;">
+                        </h2>
+
+                        <ul>
+                            <h3>
+                                <b>
+                                    <li> good communication.</li>
+                                    <li>positive attitude.</li>
+                                    <li>self motivated </li>
+                                    <h3>
+                                        <b>
+
+                                        </u>
+                                        <h2>
+                                            <div style="background-color: gray;color:white:padding:05px;">
+                                                <u>personal details </u>
+                                            </h2>
+                                            <ul>
+                                                <b>
+                                                    <h3>
+                                                        <li>NAME: veena
+                                                            <li>married: no
+                                                                <li>hobbies :</li>
+                                                                <ul>
+                                                                    <li> video editing
+                                                                        <li>hand craft</li>
+                                                                    </ul>
+                                                                </ul>
+                                                                </html> Hi, I’m @Veenavsubi
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Veenavsubi/Veenavsubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
