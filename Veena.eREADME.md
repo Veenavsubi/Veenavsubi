@@ -24,7 +24,7 @@
 
             <h3>veena</h3>
 
-            <img src="c:\Users\it\Downloads\Snapchat-1335208563.jpg" width=100 height=100 hspace=300 align=right>
+            <img src="veena.jpg" width=100 height=100 hspace=300 align=right>
 
             <h5> palladam </h5>
 
